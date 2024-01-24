@@ -1,0 +1,73 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+/* Item Tran Table */
+.ItemTranTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #4CAF50;
+}
+
+.ItemTranTable td,
+#ItemTranTable th {
+  border: 1px solid #4CAF50;
+  /*padding: 1px;*/
+  line-height: 20px;
+  padding-left: 5px;
+}
+
+.ItemTranTable th {
+  border: 1px solid #808080;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+  line-height: 45px;
+  padding-left: 5px;
+  font-size: 18px;
+}
+
+.ItemTranTable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.ItemTranTable tr:hover {
+  background-color: #6cba4d;
+  color: white;
+}
+
+.ItemTranTable a:hover {
+  color: #ff0000;
+}
+
+.ItemTranTable {
+  font-size: 12px;
+}

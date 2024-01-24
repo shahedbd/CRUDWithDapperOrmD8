@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDWithDapperOrmD8", "CRUDWithDapperOrmD8\CRUDWithDapperOrmD8.csproj", "{4C1731B9-AA28-4606-B27F-0CA3EF7CC77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1731B9-AA28-4606-B27F-0CA3EF7CC77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1731B9-AA28-4606-B27F-0CA3EF7CC77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1731B9-AA28-4606-B27F-0CA3EF7CC77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1731B9-AA28-4606-B27F-0CA3EF7CC77B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B868BD7-2CBA-4236-8387-67927F89AFA1}
+	EndGlobalSection
+EndGlobal
